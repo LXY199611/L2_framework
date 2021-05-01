@@ -8,4 +8,4 @@ This framework is designed for the label-distribution-based task, especially for
 
 Run `matlab demo.m` to run the demo.
 
-If you have questions or want to communicate with me, please contact xinyuan.liu@stu.xjtu.edu.cn ^ ^
+If you have questions or want to communicate with me, please contact xinyuan.liu@stu.xjtu.edu.cn.
