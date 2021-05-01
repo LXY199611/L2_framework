@@ -1,6 +1,6 @@
 # L2_framework
 
-This is the demo is for paper *Unified framework for learning with label distribution.
+This is the demo is for paper *Unified framework for learning with label distribution*.
 
 You can tune the parameters for your own dataset.
 
