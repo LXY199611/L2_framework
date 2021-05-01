@@ -1,5 +1,5 @@
 function Outputs = build_label_manifold(train_data, train_p_target, k)
-%build_label_manifold is the first phase of PL-AGGD
+
 [p,q]=size(train_p_target);
 train_data = normr(train_data);
 kdtree = KDTreeSearcher(train_data);
