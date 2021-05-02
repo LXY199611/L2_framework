@@ -1,6 +1,6 @@
 function W = obtain_S(train_data, y, k,lambda,mu)
 [p,~]=size(y);
-train_data = normr(train_data);
+% train_data = normr(train_data);
 kdtree = KDTreeSearcher(train_data);
 [neighbor,~] = knnsearch(kdtree,train_data,'k',k+1);
 neighbor = neighbor(:,2:k+1);
